@@ -65,7 +65,7 @@ Configure wordpress [Follow this Link](https://ubuntu.com/tutorials/install-and-
 
 ## Preview
 
-(./Screenshot2.png)
+[(./Screenshot1.png)]
 
 ## Further Reading
 
