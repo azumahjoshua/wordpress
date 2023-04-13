@@ -8,9 +8,11 @@ Prerequisites
 ## Step 1: Initialize and start Vagrant
 
 Initialize and add a vagrant file folder of the project
+
 `vagrant init ubuntu/bionic64`
 
 start the virtual machine
+
 `vagrant up`
 
 ## Step 2: Install WordPress dependencies
@@ -18,6 +20,7 @@ start the virtual machine
 Run the following commands to update the package index and install the required packages:
 
 `sudo apt update`
+
 `sudo apt install apache2 ghostscript libapache2-mod-php mysql-server php php-bcmath php-curl php-imagick php-intl php-json php-mbstring php-mysql php-xml php-zip -y`
 
 ## Step 4: Download and extract WordPress
@@ -30,4 +33,4 @@ Create a new Apache virtual host configuration file for WordPress:
 
 `vi /etc/apache2/sites-available/wordpress.conf`
 
-[![Paste the following content into the file:](./Screenshot1.png)]
+![Paste the following content into the file:](./Screenshot1.png)
