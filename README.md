@@ -51,6 +51,24 @@ Finally, reload apache2 to apply all these changes:
 
 `sudo service apache2 reload`
 
-## Step 7: Configure WordPress
+## Step 7: Configure database
 
 Configure database [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#5-configure-database)
+
+## Step 8: Configure WordPress to connect to the database
+
+Configure wordpress [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#6-configure-wordpress-to-connect-to-the-database)
+
+## Step 9: Configure WordPress
+
+Configure wordpress [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#6-configure-wordpress-to-connect-to-the-database)
+
+Preview (./Screenshot1.png)
+
+## Further Reading
+
+If you want to learn more about Vagrant or WordPress, there are many resources available online. Here are a few that you might find useful:
+
+Vagrant Documentation (https://developer.hashicorp.com/vagrant/docs)
+WordPress Documentation (https://wordpress.org/documentation/)
+WordPress Codex (https://codex.wordpress.org/Main_Page)
