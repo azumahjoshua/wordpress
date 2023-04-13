@@ -76,3 +76,10 @@ Vagrant Documentation (https://developer.hashicorp.com/vagrant/docs)
 WordPress Documentation (https://wordpress.org/documentation/)
 
 WordPress Codex (https://codex.wordpress.org/Main_Page)
+
+## Support
+
+If you have any issues or questions regarding the project, please contact the developer or open an issue on the repository.
+
+Email: joshuaazumah6801@gmail.com <br/>
+Linkedin: https://www.linkedin.com/in/azumahjoshua
