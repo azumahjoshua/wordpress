@@ -34,3 +34,23 @@ Create a new Apache virtual host configuration file for WordPress:
 `vi /etc/apache2/sites-available/wordpress.conf`
 
 ![Paste the following content into the file:](./Screenshot1.png)
+
+## Step 6: Enable the WordPress site and Apache modules
+
+Enable the WordPress site and the required Apache modules:
+
+`sudo a2ensite wordpress`
+
+`sudo a2enmod rewrite`
+
+Disable the default Apache site:
+
+`sudo a2dissite 000-default`
+
+Finally, reload apache2 to apply all these changes:
+
+`sudo service apache2 reload`
+
+## Step 7: Configure WordPress
+
+Configure database [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#5-configure-database)
