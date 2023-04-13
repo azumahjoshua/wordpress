@@ -29,3 +29,5 @@ Run the following commands to update the package index and install the required 
 Create a new Apache virtual host configuration file for WordPress:
 
 `vi /etc/apache2/sites-available/wordpress.conf`
+
+[![Paste the following content into the file:](./Screenshot1.png)]
