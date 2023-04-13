@@ -53,4 +53,4 @@ Finally, reload apache2 to apply all these changes:
 
 ## Step 7: Configure WordPress
 
-Configure database [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#5-configure-database){target="\_blank"}
+Configure database [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#5-configure-database)
