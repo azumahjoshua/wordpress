@@ -72,5 +72,7 @@ Configure wordpress [Follow this Link](https://ubuntu.com/tutorials/install-and-
 If you want to learn more about Vagrant or WordPress, there are many resources available online. Here are a few that you might find useful:
 
 Vagrant Documentation (https://developer.hashicorp.com/vagrant/docs)
+
 WordPress Documentation (https://wordpress.org/documentation/)
+
 WordPress Codex (https://codex.wordpress.org/Main_Page)
