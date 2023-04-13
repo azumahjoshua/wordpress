@@ -63,7 +63,9 @@ Configure wordpress [Follow this Link](https://ubuntu.com/tutorials/install-and-
 
 Configure wordpress [Follow this Link](https://ubuntu.com/tutorials/install-and-configure-wordpress#6-configure-wordpress-to-connect-to-the-database)
 
-Preview (./Screenshot2.png)
+## Preview
+
+(./Screenshot2.png)
 
 ## Further Reading
 
